@@ -16,7 +16,7 @@ Each entry in the catalog includes the following fields:
 
 ## Contributing
 
-Please see the [Contribution Guidelines and Entry Template](https://github.com/steyheka-h10/young-exoplanet-catalog/issues/1) for details on how to add new entries.
+Please see the [Contribution Guidelines and Entry Template](CONTRIBUTING.md) for details on how to add new entries.
 
 ## Data Files
 
